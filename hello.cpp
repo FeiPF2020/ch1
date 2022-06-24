@@ -1,0 +1,16 @@
+/*
+ * @Author: FeiPF2020 wpfn218925@163.com
+ * @Date: 2022-06-25 01:24:25
+ * @LastEditors: FeiPF2020 wpfn218925@163.com
+ * @LastEditTime: 2022-06-25 01:26:29
+ * @FilePath: \ch1\hello.cpp
+ * 
+ * 
+*/
+#include <iostream>
+using namespace std;
+
+int main(){
+    cout<<"hello,wpf!!!";
+    return 0;
+}
